@@ -1,0 +1,20 @@
+Installation Notes
+-----------------------------------
+
+Requirements:
+- Forma24 in recent version (e.g. accepting syntax p.solve_all=[];)
+- Matlab2007a or higher (2007b, 2008a, 2008b)
+- export to Latex works only with properly installed Maalari (PlotIRF2) 
+
+------------------------------------
+Instructions:
+- copy GUI folder to desired location (recomended the main folder of FORMA24)
+- add the GUI folder in list of folders in 'init.m' file
+
+------------------------------------
+Tutorials are bit out of date, watch out for expanded options in recent version of GUI.
+Report any kind of bugs immediately to wladyslaw.saj@ibs.org.pl , then you can report it 
+anywhere else.
+
+
+WMS, 9 Jan 2009
